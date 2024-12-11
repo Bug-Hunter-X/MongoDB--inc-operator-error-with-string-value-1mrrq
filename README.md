@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `$inc` operator in MongoDB update queries.  The provided code snippet shows the incorrect usage of `$inc` with a string argument. The solution shows the correct implementation with a numeric value.  The bug can cause unexpected behavior or a server-side error.
